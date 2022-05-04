@@ -1,4 +1,4 @@
-# Chapter 9
+# Chapter 7
 
 Code accompanying Chapter 9 of the book 'Data pipelines with Apache Airflow'.
 
